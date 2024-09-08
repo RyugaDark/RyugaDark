@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RyugaDark
-- 👀 I’m interested in ...Motorsport and Robotics 
-- 🌱 I’m currently Working ...ROS2 foxy, Fusion360
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Chaitanya Sai Nikith Rambha
+- 👀 I’m interested in ...Robotics
+- 🌱 I’m currently Working as a Mechanical design engineer @ Orangewoodlabs, Noida where i design 6-DOF Manipulator, Cycloidal Drives
 - 📫 How to reach me ... rambhanikith007@gmail.com
 
 <!---
